@@ -23,9 +23,8 @@
 </ul>
 
 <p>You can install them using pip:</p>
-```
-pip install opencv-python pillow
-```
+`pip install opencv-python pillow`
+
 
 <h2>Usage</h2>
 <ol>
@@ -36,14 +35,11 @@ pip install opencv-python pillow
 <li>Run the appropriate program based on your desired output:</li>
 </ol>
 <p>To convert a video to ASCII text:</p>
-```
-python image_to_txt.py
-```
+`python image_to_txt.py`
+
 
 <p>To convert a video to an ASCII video:</p>
-```
-python main.py
-```
+`python main.py`
 <p>The converted file will be saved in the Converted directory.</p>
 <h2>Credits</h2>
 <p>ASCIIconverter was created by Piotr Szamocki.<p>
