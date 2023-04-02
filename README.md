@@ -34,12 +34,11 @@
 <li>Modify the parameters in the code if necessary.</li>
 <li>Run the appropriate program based on your desired output:</li>
 </ol>
-<p>To convert a video to ASCII text:</p>
-`python image_to_txt.py`
 
+<p>To convert a video to ASCII text: `python image_to_txt.py`</p>
+<p>To convert a video to an ASCII video: `python main.py`</p>
 
-<p>To convert a video to an ASCII video:</p>
-`python main.py`
 <p>The converted file will be saved in the Converted directory.</p>
+
 <h2>Credits</h2>
 <p>ASCIIconverter was created by Piotr Szamocki.<p>
